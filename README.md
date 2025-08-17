@@ -4,16 +4,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Rafael Teixeira de Souza
+Matricula: 1560194
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img width="1872" height="1009" alt="image" src="https://github.com/user-attachments/assets/479bad1d-d483-477a-b79a-aa6845aff383" />
+
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Uploading image.png…]()
+
 
 
 ## Orientações sobre Linguagem MarkDown

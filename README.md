@@ -9,12 +9,13 @@ Matricula: 1560194
 
 ## Tela de inspeção com navegador
 
-<img width="1872" height="1009" alt="image" src="https://github.com/user-attachments/assets/479bad1d-d483-477a-b79a-aa6845aff383" />
+<img width="1919" height="1079" alt="network" src="https://github.com/user-attachments/assets/b7df3040-8b76-47f1-8f4b-5865917578a2" />
+
 
 
 ## Tela de projeto no Replit
 
-![Uploading image.png…]()
+<img width="1872" height="1009" alt="image" src="https://github.com/user-attachments/assets/479bad1d-d483-477a-b79a-aa6845aff383" />
 
 
 
